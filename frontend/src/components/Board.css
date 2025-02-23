@@ -1,0 +1,31 @@
+.board-container {
+  display: flex;
+  height: 80vh;
+}
+
+/* Sidebar Styles */
+.sidebar {
+  width: 20%;
+  height: 0vh;
+  background-color: white;
+  padding: 16px;
+  border-right: 1px solid #e5e7eb;
+}
+
+
+
+.sidebar-item:hover {
+  background-color: #f3f4f6;
+}
+
+.sidebar-item.active {
+  background-color: #ddd;
+  font-weight: bold;
+}
+
+/* Kanban Content */
+
+
+
+
+
